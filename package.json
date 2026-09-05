@@ -33,16 +33,16 @@
 	},
 	"icon": "docs/images/icon.png",
 	"license": "SEE LICENSE IN LICENSE.md",
-	"homepage": "https://github.com/alefragnani/vscode-project-manager/blob/master/README.md",
+	"homepage": "https://github.com/Unity-for-Unity-Manufacturing/vscode-project-manager/blob/main/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alefragnani/vscode-project-manager.git"
+		"url": "https://github.com/Unity-for-Unity-Manufacturing/vscode-project-manager.git"
 	},
 	"bugs": {
-		"url": "https://github.com/alefragnani/vscode-project-manager/issues"
+		"url": "https://github.com/Unity-for-Unity-Manufacturing/vscode-project-manager/issues"
 	},
 	"sponsor": {
-		"url": "https://github.com/sponsors/alefragnani"
+		"url": "https://github.com/sponsors/Unity-for-Unity-Manufacturing"
 	},
 	"activationEvents": [
 		"onStartupFinished"
