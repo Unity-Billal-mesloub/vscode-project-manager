@@ -37,12 +37,7 @@ All "get" methods return a public `Project` shape: `{ name, rootPath, tags, prof
      own implementation) both depend on, but which depends on nothing internal.
    - Use the **MIT License** header (matching the convention used in `vscode-whats-new/src/*.ts`),
      instead of the repo's default GPLv3 header used elsewhere in `src/`:
-     ```
-     /*---------------------------------------------------------------------------------------------
-     *  Copyright (c) Alessandro Fragnani. All rights reserved.
-     *  Licensed under the MIT License. See License.md in the project root for license information.
-     *--------------------------------------------------------------------------------------------*/
-     ```
+     
      (Add a small `api/License.md` with the MIT text if the root `LICENSE.md` is not MIT, so the
      header's reference is accurate — check root `LICENSE.md` license type before finalizing.)
    - Export `ProjectManagerPublicApi` interface (or similarly named) with:
