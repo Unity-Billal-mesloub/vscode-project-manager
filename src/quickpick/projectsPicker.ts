@@ -1,7 +1,3 @@
-/*---------------------------------------------------------------------------------------------
-*  Copyright (c) Alessandro Fragnani. All rights reserved.
-*  Licensed under the GPLv3 License. See License.md in the project root for license information.
-*--------------------------------------------------------------------------------------------*/
 
 import fs = require("fs");
 import { commands, Disposable, l10n, MessageItem, QuickInputButton, QuickPickItem, ThemeIcon, window, workspace } from "vscode";
