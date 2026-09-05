@@ -1,7 +1,3 @@
-/*---------------------------------------------------------------------------------------------
-*  Copyright (c) Alessandro Fragnani. All rights reserved.
-*  Licensed under the GPLv3 License. See License.md in the project root for license information.
-*--------------------------------------------------------------------------------------------*/
 
 import { commands, l10n, Uri, window, workspace } from "vscode";
 import path = require("path");
