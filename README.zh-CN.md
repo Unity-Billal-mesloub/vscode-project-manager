@@ -4,7 +4,7 @@
 
 <p align="center">
   <br />
-  <a title="了解更多 Project Manager 信息" href="https://github.com/alefragnani/vscode-project-manager"><img src="https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/vscode-project-manager-logo-readme.png" alt="Project Manager Logo" width="70%" /></a>
+  <a title="了解更多 Project Manager 信息" href="https://github.com/Unity-for-Unity-Manufacturing/vscode-project-manager"><img src="https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/vscode-project-manager-logo-readme.png" alt="Project Manager Logo" width="70%" /></a>
 </p>
 
 [English](README.md) | 简体中文
