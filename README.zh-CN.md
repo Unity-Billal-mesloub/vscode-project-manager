@@ -4,7 +4,7 @@
 
 <p align="center">
   <br />
-  <a title="了解更多 Project Manager 信息" href="https://github.com/Unity-for-Unity-Manufacturing/vscode-project-manager"><img src="https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/vscode-project-manager-logo-readme.png" alt="Project Manager Logo" width="70%" /></a>
+  <a title="了解更多 Project Manager 信息" href="https://github.com/Unity-Billal-mesloub/vscode-project-manager"><img src="https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/vscode-project-manager-logo-readme.png" alt="Project Manager Logo" width="70%" /></a>
 </p>
 
 [English](README.md) | 简体中文
@@ -32,7 +32,7 @@
       <a title="Paypal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EP57F3B6FXKTU&lc=US&item_name=Alessandro%20Fragnani&item_number=vscode%20extensions&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"/></a>
     </td>
     <td>
-      <a title="GitHub Sponsors" href="https://github.com/sponsors/alefragnani"><img src="https://raw.githubusercontent.com/alefragnani/oss-resources/master/images/button-become-a-sponsor-rounded-small.png"/></a>
+      <a title="GitHub Sponsors" href="https://github.com/sponsors/Unity-Billal-mesloub"><img src="https://raw.githubusercontent.com/alefragnani/oss-resources/master/images/button-become-a-sponsor-rounded-small.png"/></a>
     </td>
     <td>
       <a title="Patreon" href="https://www.patreon.com/alefragnani"><img src="https://raw.githubusercontent.com/alefragnani/oss-resources/master/images/button-become-a-patron-rounded-small.png"/></a>
@@ -395,6 +395,3 @@ async function useProjectManagerApi() {
 - [Install the extension](https://code.visualstudio.com/docs/editor/extension-gallery)
 - [Modify its settings](https://code.visualstudio.com/docs/getstarted/settings)
 
-# 许可证
-
-[GPL-3.0 with VS Code Extension Host API Exception](LICENSE.md) &copy; Alessandro Fragnani
